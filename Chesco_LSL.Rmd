@@ -1,0 +1,78 @@
+---
+title: "Avondale"
+output: html_document
+date: "2024-02-22"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r library}
+library(sf)
+library(tidyverse)
+library(tidycensus)
+library(tigris)
+library(leaflet)
+
+census_api_key("e13d5be5cb48d927009e0dca0af99d21918d514f", overwrite = TRUE)
+
+options(scipen = 999)
+
+```
+
+```{r data}
+name <- "Avondale"
+
+codes <- c("R-10", "R-20", "R-30", "R-40", "R-50", "R-55", "R-60", "R-61", "R-90")
+
+dat <- read_csv("data/Avondale_cleaned.csv") %>%
+  dplyr::filter(LUC %in% codes) %>%
+  dplyr::filter(WATER == 1) %>%
+  select(PARID, LUC, WATER, YRBLT, COMM_YRBLT, X_CO, Y_CO, situs)
+
+points <- st_as_sf(dat, coords = c("X_CO", "Y_CO"), crs = "EPSG:2272") %>%
+  st_transform(crs="EPSG:4326") 
+
+points <- points %>% 
+  mutate(date_cutoff = case_when())
+
+chester <- counties(state = 42) %>%
+  dplyr::filter(NAME == "Chester")
+
+municipalities <- county_subdivisions(42, county = "Chester")
+
+town <- municipalities %>%
+  dplyr::filter(NAME == name)
+
+```
+
+```{r map}
+
+# Create a palette that maps factor levels to colors
+pal <- colorFactor(c("navy", "red"), domain = c("ship", "pirate"))
+
+leaflet(df) %>% addTiles() %>%
+  addCircleMarkers(
+    radius = ~ifelse(type == "ship", 6, 10),
+    color = ~pal(type),
+    stroke = FALSE, fillOpacity = 0.5
+  )
+
+leaflet() %>%
+    addProviderTiles(providers$CartoDB.Positron) %>%
+    setView(lng = town$INTPTLON, 
+            lat = town$INTPTLAT,
+            zoom = 15) %>% 
+    addPolygons(data = town,
+              opacity = .5,
+              fillOpacity = .05) %>%
+    addCircleMarkers(data = points,
+                     radius = .8,
+                     opacity = .8,
+                     popup = points$situs,
+                     color = ~pal(points$LUC))
+
+
+```
+
