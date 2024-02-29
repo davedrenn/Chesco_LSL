@@ -116,7 +116,8 @@ leaflet(width = "100%") %>%
                    color = ~pal1(if1991),
                    popup = ~paste("Address:", situs,
                                   "<br>Year Built:", year,
-                                  "<br>Zoning:", LUC_desc
+                                  "<br>Zoning:", LUC_desc,
+                                  "<br>Subdivision:", SUBDIV
                                   ),
                    group = "Pre- or Post-1991"
                    ) %>%
@@ -136,7 +137,8 @@ leaflet(width = "100%") %>%
                    color = ~pal2(yearGroup),
                    popup = ~paste("Address:", situs,
                                   "<br>Year Built:", year,
-                                  "<br>Zoning:", LUC_desc
+                                  "<br>Zoning:", LUC_desc,
+                                  "<br>Subdivision:", SUBDIV
                                   ),
                    group = "Year Category"
                    ) %>%
@@ -156,7 +158,8 @@ leaflet(width = "100%") %>%
                    color = ~pal3(SUBDIV),
                    popup = ~paste("Address:", situs,
                                   "<br>Year Built:", year,
-                                  "<br>Zoning:", LUC_desc
+                                  "<br>Zoning:", LUC_desc,
+                                  "<br>Subdivision:", SUBDIV
                                   ),
                    group = "Subdivision"
                    ) %>%
