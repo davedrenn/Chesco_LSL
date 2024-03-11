@@ -1,0 +1,426 @@
+﻿PARID,LUC,LUC_desc,PROPERTY_LOC,PropLoc_desc,PROPERTY_CLASS,NBHD,ZONING,WATER,Water_desc,DEGREE_REMOD,degree_remod_desc,YEAR_REMOD,YRBLT,COMM_YRBLT,X_CO,Y_CO,situs
+0401 00010000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1870,,2520104,184906,143 W STATE ST
+0401 00020000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2519953,185050,REAR W STATE ST
+0401 00030100,M-20,I - Light Industrial,6,Neighborhood or Spot,I,99046000,C1,1,Public,,Not Listed,,,1982,2520242,185028,117 W STATE ST
+0401 00030100,M-20,I - Light Industrial,6,Neighborhood or Spot,I,99046000,C1,1,Public,,Not Listed,,,1908,2520242,185028,117 W STATE ST
+0401 00040100,V-11,C - Vacant Land Commercial,6,Neighborhood or Spot,C,99046000,C1,1,Public,,Not Listed,,,,2520373,184849,121 W STATE ST
+0401 0006000E,E-40,E - Railroads,6,Neighborhood or Spot,E,99046000,C1,1,Public,,Not Listed,,,,2519970,185897,100 POMEROY AVE
+0401 00060100,C-97,Not Listed,6,Neighborhood or Spot,C,99046000,C1,1,Public,,Not Listed,,,1899,2520550,185084,100 POMEROY AVE
+0401 0007000E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,99046000,C1,1,Public,,Not Listed,,,1958,2520415,185284,110 POMEROY AVE
+0401 0008000E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,99046000,R1,1,Public,,Not Listed,,,1940,2520129,185803,300 POMEROY AVE
+0401 00090000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520281,185828,15 W THIRD ST
+0401 00100000,R-40,A - Aparments (4-19 Units),5,Secondary Strip,A,99045000,R1,1,Public,,Not Listed,,,1884,2520429,185891,300 302 PENNSYLVANIA AVE
+0401 00110000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520314,185924,310 PENNSYLVANIA AVE
+0401 00120000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520285,185970,314 PENNSYLVANIA AVE
+0401 00130000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520260,186024,318 PENNSYLVANIA AVE
+0401 00140000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520264,186080,322 PENNSYLVANIA AVE
+0401 00150000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1860,,2520250,186120,326 PENNSYLVANIA AVE
+0401 00160000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1934,,2520233,186157,408 PENNSYLVANIA AVE
+0401 00170000,R-10,R - Single Family/Cabin,5,Secondary Strip,R,04001000,R1,1,Public,,Not Listed,,1900,,2520175,186180,410 PENNSYLVANIA AVE
+0401 00180000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520156,186224,412 PENNSYLVANIA AVE
+0401 00190000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520137,186274,414 PENNSYLVANIA AVE
+0401 0020000E,E-10,E - Churches,5,Secondary Strip,E,99045000,R1,1,Public,,Not Listed,,1925,1874,2520053,186390,410 412 PENNSYLVANIA AVE
+0401 0020000E,E-10,E - Churches,5,Secondary Strip,E,99045000,R1,1,Public,,Not Listed,,1925,2008,2520053,186390,410 412 PENNSYLVANIA AVE
+0401 0021000E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,99046000,R1,3,None,,Not Listed,,,,2519650,186504,350 POMEROY AVE
+0401 00220000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520073,186639,516 PENNSYLVANIA AVE
+0401 00220100,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,1950,1928,,2520108,186548,512 PENNSYLVANIA AVE
+0401 00220200,R-80,"R - Barns,Stables,Pools,Misc Bldg",6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2519978,186492,514 PENNSYLVANIA AVE
+0401 0022030E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,04001000,R1,3,None,,Not Listed,,,,2519705,186797,
+0401 00230000,R-30,R - Multi Family/Dorms/Single,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520058,186721,520 PENNSYLVANIA AVE
+0401 00240000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1946,,2520042,186814,522 PENNSYLVANIA AVE
+0401 00250000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1920,,2519939,186864,524 PENNSYLVANIA AVE
+0401 00260000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,1998,1898,,2520186,186913,525 PENNSYLVANIA AVE
+0401 00270000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1970,1900,,2520231,186830,523 PENNSYLVANIA AVE
+0401 00280000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1990,1920,,2520259,186765,517 PENNSYLVANIA AVE
+0401 00290000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520282,186725,513 PENNSYLVANIA AVE
+0401 00300000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520304,186673,507 PENNSYLVANIA AVE
+0401 00310000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520328,186621,505 PENNSYLVANIA AVE
+0401 00320000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520348,186572,501 PENNSYLVANIA AVE
+0401 00330000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1920,,2520503,186643,502 CHATHAM ST
+0401 00340000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1980,1920,,2520485,186690,502 CHATHAM ST
+0401 00350000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1962,,2520462,186735,504 CHATHAM ST
+0401 00360000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1953,,2520441,186782,506 CHATHAM ST
+0401 00370000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,2022,1955,,2520415,186834,508 CHATHAM ST
+0401 00380000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1948,,2520390,186889,510 CHATHAM ST
+0401 00390000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1950,,2520373,186955,512 CHATHAM ST
+0401 00400000,R-30,R - Multi Family/Dorms/Single,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1910,,2520387,186489,419 PENNSYLVANIA AVE
+0401 00410000,C-60,C - Office Bldgs/Laboratory/Library,5,Secondary Strip,C,99045000,R1,1,Public,,Not Listed,,,1908,2520405,186442,417 PENNSYLVANIA AVE
+0401 00420000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1920,,2520431,186394,413 PENNSYLVANIA AVE
+0401 00430000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,2016,1920,,2520452,186349,411 PENNSYLVANIA AVE
+0401 00440000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,1,Cosmetic Redecoration,,1900,,2520483,186283,401 PENNSYLVANIA AVE
+0401 00450000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520632,186366,400 CHATHAM ST
+0401 00460000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1980,1926,,2520593,186457,412 CHATHAM ST
+0401 00470000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520556,186540,420 CHATHAM ST
+0401 00470000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520556,186540,420 CHATHAM ST
+0401 00480000,C-80,C - Warehouse,6,Neighborhood or Spot,C,99046000,R1,1,Public,,Not Listed,,,1890,2520741,186597,411 CHATHAM ST
+0401 00490000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1994,1925,,2520783,186494,401 CHATHAM ST
+0401 00500000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1959,,2520817,186420,200 FOURTH ST
+0401 00510000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1977,,2520952,186494,400 NEW ST
+0401 00510100,V-10,R - Vacant Land Residential,8,Industrial Site,R,04001000,R1,1,Public,,Not Listed,,,,2520870,186659,420 CHATHAM ST
+0401 00510200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1977,,2520916,186561,402 NEW ST
+0401 00520000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,2020,1900,,2520527,186185,319 PENNSYLVANIA AVE
+0401 00530000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520545,186144,317 PENNSYLVANIA AVE
+0401 00540000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,2014,1900,,2520578,186088,315 PENNSYLVANIA AVE
+0401 00550000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520609,186014,305 PENNSYLVANIA AVE
+0401 00560000,R-60,R - Dwelling W/Comm Use Primary R,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1887,,2520634,185960,301 PENNSYLVANIA AVE
+0401 00570000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520788,186019,300 CHATHAM ST
+0401 00580000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520778,186047,302 CHATHAM ST
+0401 00590000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520762,186082,306 CHATHAM ST
+0401 00590100,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2520743,186128,310 CHATHAM ST
+0401 00590200,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2520724,186169,314 CHATHAM ST
+0401 00600000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520695,186220,318 CHATHAM ST
+0401 00600100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520707,186199,316 CHATHAM ST
+0401 00610000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,2003,1900,,2520645,186239,101 E FOURTH ST
+0401 00620000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1922,,2520711,186270,320 CHATHAM ST
+0401 00630000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1964,1930,,2520863,186313,319 CHATHAM ST
+0401 00640000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520898,186244,315 CHATHAM ST
+0401 00650000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,2015,,2520922,186191,313 CHATHAM ST
+0401 00660000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520902,186096,301 CHATHAM ST
+0401 00670000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520966,186130,201 E THIRD ST
+0401 00680000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2521017,186349,316 NEW ST
+0401 00690000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1970,1900,,2521075,186216,300 NEW ST
+0401 00700000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1987,1908,,2520941,186981,501 CHATHAM ST
+0401 00710000,F-40,"C - Mushroom, Horticultural, etc",6,Neighborhood or Spot,C,99046000,R1,1,Public,,Not Listed,,,1932,2521318,186651,401 NEW ST
+0401 00710000,F-40,"C - Mushroom, Horticultural, etc",6,Neighborhood or Spot,C,99046000,R1,1,Public,,Not Listed,,,1908,2521318,186651,401 NEW ST
+0401 00720000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2521199,186361,315 NEW ST
+0401 00730000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2521193,186251,301 E THIRD ST
+0401 00740000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2521257,186274,303 E THIRD ST
+0401 00750000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,2019,1900,,2521378,186365,307 E THIRD ST
+0401 00750100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1958,,2521327,186335,305 E THIRD ST
+0401 00760000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2521457,186416,311 E THIRD ST
+0401 0076000E,E-10,E - Churches,6,Neighborhood or Spot,E,99046000,R1,1,Public,,Not Listed,,,1899,2521457,186416,309 E THIRD ST
+0401 00770000,V-12,R - OPEN SPACE,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2522140,186945,104 GARNER DR
+0401 00770100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2522235,187148,101 GARNER DR
+0401 00770200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2522207,187144,103 GARNER DR
+0401 00770300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2522183,187140,105 GARNER DR
+0401 00770400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2522159,187137,107 GARNER DR
+0401 00770500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2522135,187134,109 GARNER DR
+0401 00770600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2522107,187130,111 GARNER DR
+0401 00770700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2009,,2522073,187125,113 GARNER DR
+0401 00770800,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2009,,2522044,187121,115 GARNER DR
+0401 00770900,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2522021,187118,117 GARNER DR
+0401 00771000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2521992,187114,119 GARNER DR
+0401 00771100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521876,187098,127 GARNER DR
+0401 00771200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2521847,187094,129 GARNER DR
+0401 00771300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2521823,187090,131 GARNER DR
+0401 00771400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2521795,187086,133 GARNER DR
+0401 00771500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521761,187081,135 GARNER DR
+0401 00771600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521732,187077,137 GARNER DR
+0401 00771700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2521709,187072,139 GARNER DR
+0401 00771800,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2521670,187077,141 GARNER DR
+0401 00771900,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521634,187071,145 GARNER DR
+0401 00772000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521617,187027,147 GARNER DR
+0401 00772100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521600,187011,149 GARNER DR
+0401 00772200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521582,186989,151 GARNER DR
+0401 00772300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,3,None,,Not Listed,,2010,,2522065,187005,200 MULLEN DR
+0401 00772400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2522063,186976,202 MULLEN DR
+0401 00772500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,5,Kitchen Remodeling,2022,2010,,2522062,186951,204 MULLEN DR
+0401 00772600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2522061,186922,206 MULLEN DR
+0401 00772700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2522057,186888,208 MULLEN DR
+0401 00772800,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2522052,186860,210 MULLEN DR
+0401 00772900,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2522048,186836,212 MULLEN DR
+0401 00773000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2522043,186813,214 MULLEN DR
+0401 00773100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2522036,186789,216 MULLEN DR
+0401 00773200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2522028,186752,218 MULLEN DR
+0401 00773300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2522011,186706,222 MULLEN DR
+0401 00773400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521962,186711,224 MULLEN DR
+0401 00773500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521941,186708,226 MULLEN DR
+0401 00773600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521915,186701,228 MULLEN DR
+0401 00773700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521881,186697,232 MULLEN DR
+0401 00773800,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521852,186697,234 MULLEN DR
+0401 00773900,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521828,186696,236 MULLEN DR
+0401 00774000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521790,186693,238 MULLEN DR
+0401 00774100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2009,,2521923,186980,203 MULLEN DR
+0401 00774200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2009,,2521924,186951,205 MULLEN DR
+0401 00774300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2009,,2521925,186927,207 MULLEN DR
+0401 00774400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2521925,186898,209 MULLEN DR
+0401 00774500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521918,186834,227 MULLEN DR
+0401 00774600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521890,186830,229 MULLEN DR
+0401 00774700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521866,186828,231 MULLEN DR
+0401 00774800,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2011,,2521842,186826,233 MULLEN DR
+0401 00774900,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521818,186824,235 MULLEN DR
+0401 00775000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2012,,2521791,186821,237 MULLEN DR
+0401 00775100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2013,,2521719,186843,162 GARNER DR
+0401 00775200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2013,,2521716,186866,160 GARNER DR
+0401 00775300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2013,,2521714,186895,158 GARNER DR
+0401 0077540E,E-12,E - Service Connected,6,Neighborhood or Spot,E,04370000,R1,1,Public,,Not Listed,,2010,,2521805,186607,313 E THIRD ST
+0401 00775500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2521854,186608,315 E THIRD ST
+0401 00775600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2010,,2522015,186623,319 E THIRD ST
+0401 00775700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,6,Complete Rehab,2018,2010,,2522056,186630,321 E THIRD ST
+0401 00775800,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04370000,R1,1,Public,,Not Listed,,2013,,2521726,186814,164 GARNER DR
+0401 00775900,V-12,R - OPEN SPACE,6,Neighborhood or Spot,R,04370000,R1,3,None,,Not Listed,,,,2521540,186904,
+0401 00776000,V-12,R - OPEN SPACE,6,Neighborhood or Spot,R,04370000,R1,3,None,,Not Listed,,,,2521934,187106,
+0401 00776100,V-12,R - OPEN SPACE,6,Neighborhood or Spot,R,04370000,R1,3,None,,Not Listed,,,,2521739,186782,
+0401 00776200,V-12,R - OPEN SPACE,6,Neighborhood or Spot,R,04370000,R1,3,None,,Not Listed,,,,2521811,186938,
+0401 00776300,V-12,R - OPEN SPACE,6,Neighborhood or Spot,R,04370000,R1,3,None,,Not Listed,,,,2522265,187153,
+0401 00776400,V-12,R - OPEN SPACE,6,Neighborhood or Spot,R,04370000,R1,3,None,,Not Listed,,,,2521952,186849,
+0401 00776500,V-12,R - OPEN SPACE,6,Neighborhood or Spot,R,04370000,R1,3,None,,Not Listed,,,,2522126,186606,
+0401 00790000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2521898,186610,317 E THIRD ST
+0401 00800000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1958,,2521951,186618,317 E THIRD ST
+0401 00840000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522145,186641,302 CHURCH ST
+0401 0085010E,E-10,E - Churches,6,Neighborhood or Spot,E,99045000,R1,1,Public,,Not Listed,,,,2522155,186736,CHURCH ST
+0401 0086000E,E-10,E - Churches,6,Neighborhood or Spot,E,99046000,R1,1,Public,,Not Listed,,,1890,2522153,186815,314 CHURCH ST
+0401 00900100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1957,,2521756,187202,426 MINOR ST
+0401 00900200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1979,,2521671,187194,424 MINOR ST
+0401 00900300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1979,,2521576,187180,422 MINOR ST
+0401 00900400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1965,,2521404,187161,420 MINOR ST
+0401 00910000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1956,,2521832,187210,428 MINOR ST
+0401 00920000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1955,,2521909,187222,430 MINOR ST
+0401 00930000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1958,,2521983,187231,432 MINOR ST
+0401 00940000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522237,187260,402 CHURCH RD
+0401 00940200,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2522095,187240,434 MINOR ST
+0401 00950000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522370,187307,CHURCH ST
+0401 00960000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522418,187281,405 CHURCH ST
+0401 00970000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,1989,1817,,2522395,187193,403 CHURCH ST
+0401 00980000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522380,187124,401 CHURCH ST
+0401 00990000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,2016,,2522363,187029,325 CHURCH ST
+0401 01000000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522354,186991,321 CHURCH ST
+0401 01000100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1986,,2522350,186949,321 CHURCH ST
+0401 01010000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2522309,186913,CHURCH ST
+0401 01020000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1991,,2522370,186901,317 CHURCH ST
+0401 01030000,R-80,"R - Barns,Stables,Pools,Misc Bldg",6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522333,186863,315 CHURCH ST
+0401 01030100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1920,,2522326,186826,313 CHURCH ST
+0401 01040000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522318,186770,311 CHURCH ST
+0401 01050000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522303,186691,307 CHURCH ST
+0401 01060000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522288,186633,CHURCH ST
+0401 01070000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522260,186592,301 CHURCH ST
+0401 01070100,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1950,,2522326,186581,401 E THIRD ST
+0401 01080000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2520392,185719,14 W THIRD ST
+0401 01080100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1959,,2520323,185688,16 W THIRD ST
+0401 01090000,R-10,R - Single Family/Cabin,5,Secondary Strip,R,04001000,R2,1,Public,,Not Listed,,1890,,2520475,185783,220 PENNSYLVANIA AVE
+0401 01100000,R-60,R - Dwelling W/Comm Use Primary R,5,Secondary Strip,R,04001000,R2,1,Public,,Not Listed,,1876,,2520498,185736,218 PENNSYLVANIA AVE
+0401 01110000,R-60,R - Dwelling W/Comm Use Primary R,5,Secondary Strip,R,04001000,R2,1,Public,,Not Listed,,1898,,2520473,185652,214 PENNSYLVANIA AVE
+0401 01120000,R-80,"R - Barns,Stables,Pools,Misc Bldg",6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,,,2520485,185573,208 PENNSYLVANIA AVE
+0401 01120100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1959,,2520435,185526,15 W SECOND ST
+0401 01120200,R-40,A - Aparments (4-19 Units),5,Secondary Strip,A,99045000,R2,1,Public,,Not Listed,,,1890,2520562,185617,208 PENNSYLVANIA AVE
+0401 01130000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1950,,2520542,185540,19 W SECOND ST
+0401 01140000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1947,,2520610,185573,200 PENNSYLVANIA AVE
+0401 01150000,R-61,C - Dwelling W/Comm Use Primary C,5,Secondary Strip,C,99045000,R2,1,Public,,Not Listed,,,1910,2520782,185646,201 PENNSYLVANIA AVE
+0401 01160000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2520758,185695,207 PENNSYLVANIA AVE
+0401 01170000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2520732,185739,211 PENNSYLVANIA AVE
+0401 01180000,R-40,A - Aparments (4-19 Units),6,Neighborhood or Spot,A,99046000,R2,1,Public,,Not Listed,,,1887,2520708,185800,215 PENNSYLVANIA AVE
+0401 01190000,C-60,C - Office Bldgs/Laboratory/Library,5,Secondary Strip,C,99045000,R2,1,Public,,Not Listed,,,1894,2520676,185864,221 223 PENNSYLVANIA AVE
+0401 01200000,C-90,"C - Entertainment, Recreation",6,Neighborhood or Spot,C,99046000,R2,1,Public,,Not Listed,,,1907,2520839,185927,220 CHATHAM ST
+0401 01210000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2520867,185860,214 CHATHAM ST
+0401 01220000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2520885,185814,210 CHATHAM ST
+0401 01230000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2520914,185757,202 CHATHAM ST
+0401 01240000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2520938,185705,200 CHATHAM ST
+0401 01250000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2521104,185788,201 CHATHAM ST
+0401 01260000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2521091,185818,203 CHATHAM ST
+0401 01270000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2521073,185858,209 CHATHAM ST
+0401 01280000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2521053,185902,213 CHATHAM ST
+0401 01290000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2521031,185941,215 CHATHAM ST
+0401 01300000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,1960,1890,,2521013,185985,219 CHATHAM ST
+0401 01310000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2520995,186031,223 CHATHAM ST
+0401 01320000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2521145,186064,202 E THIRD ST
+0401 01330000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2521175,185997,216 NEW ST
+0401 01340000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,1900,,2521199,185943,212 NEW ST
+0401 01350000,R-70,R - Mobile Home,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,,,2521225,185881,206 NEW ST
+0401 0135000T,T-10,R - Trailers and Mobile Homes,,#NAME?,R,00009000,R2,1,Public,,Not Listed,,,,2521225,185881,206 NEW ST
+0401 01360000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,,,,2521206,185833,200 HOOPES ALY
+0401 01370000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R2,1,Public,,Not Listed,1977,1920,,2521256,185855,202 HOOPES ALY
+0401 01380000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,6,Complete Rehab,2019,1870,,2520599,185460,132 PENNSYLVANIA AVE
+0401 01390000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2520592,185394,126 PENNSYLVANIA AVE
+0401 01400000,C-30,"C - Restaurants, Stores (Retail)",5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,1915,2520702,185368,122 PENNSYLVANIA AVE
+0401 01410000,C-60,C - Office Bldgs/Laboratory/Library,5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,1951,2520644,185263,112 PENNSYLVANIA AVE
+0401 01420000,C-60,C - Office Bldgs/Laboratory/Library,5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,1775,2520682,185106,15 W STATE ST
+0401 01430000,C-30,"C - Restaurants, Stores (Retail)",1,Central Business District,C,99045000,C1,1,Public,,Not Listed,,,1938,2520726,185124,103 W STATE ST
+0401 01440000,C-96,C - Commercial OBY only,5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,,2520784,185202,116 PENNSYLVANIA AVE
+0401 01450000,C-10,"C - Banks, Savings & Loan",5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,1978,2520938,185275,119 PENNSYLVANIA AVE
+0401 0147000E,E-80,E - Non Profit Organizations,5,Secondary Strip,E,99045000,C1,1,Public,,Not Listed,,,1902,2520889,185402,121 PENNSYLVANIA AVE
+0401 0148000E,E-80,E - Non Profit Organizations,5,Secondary Strip,E,99045000,C1,1,Public,,Not Listed,,,,2520861,185454,PENNSYLVANIA AVE
+0401 01490000,R-20,R - Two Family,5,Secondary Strip,R,04001000,C1,1,Public,,Not Listed,,1900,,2520843,185490,125 127 PENNSYLVANIA AVE
+0401 01500000,R-40,A - Aparments (4-19 Units),5,Secondary Strip,A,99045000,C1,1,Public,,Not Listed,,,1915,2520833,185525,129 PENNSYLVANIA AVE
+0401 01510000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2520815,185561,131 PENNSYLVANIA AVE
+0401 01520000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2520974,185629,120 E SECOND ST
+0401 01530000,R-10,R - Single Family/Cabin,5,Secondary Strip,R,04001000,C1,1,Public,5,Kitchen Remodeling,1980,1900,,2520990,185581,118 CHATHAM ST
+0401 0154000U,U-03,U - Public Utilities,6,Neighborhood or Spot,U,99046000,C1,1,Public,,Not Listed,,,1948,2521010,185535,131 CHATHAM ST
+0401 01560000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2521022,185406,121 MORRIS ST
+0401 01570000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2521087,185438,104 CHATHAM ST
+0401 01570000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2521087,185438,104 CHATHAM ST
+0401 01580000,C-30,"C - Restaurants, Stores (Retail)",5,Secondary Strip,C,99045000,I1,1,Public,,Not Listed,,,1915,2520759,184912,90 W STATE ST
+0401 01590000,C-96,C - Commercial OBY only,5,Secondary Strip,C,99045000,I1,1,Public,,Not Listed,,,,2520872,184919,W STATE ST
+0401 01600000,C-30,"C - Restaurants, Stores (Retail)",5,Secondary Strip,C,99045000,I1,1,Public,,Not Listed,,,1924,2520862,185064,60 W STATE ST
+0401 01610000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2520953,184963,94 PENNSYLVANIA AVE
+0401 01620000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1986,,2521321,184846,204 CHURCH ST
+0401 01630000,C-80,C - Warehouse,5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,1959,2521384,185118,202 204 CHURCH ST
+0401 01630000,C-80,C - Warehouse,5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,1984,2521384,185118,202 204 CHURCH ST
+0401 01640000,R-40,A - Aparments (4-19 Units),5,Secondary Strip,A,99045000,C1,1,Public,,Not Listed,,,1900,2521222,184928,91 PENNSYLVANIA AVE
+0401 01650000,C-30,"C - Restaurants, Stores (Retail)",5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,1878,2521103,185048,93 PENNSYLVANIA AVE
+0401 01660000,C-96,C - Commercial OBY only,5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,,2521056,185090,95 PENNSYLVANIA AVE
+0401 01670000,C-30,"C - Restaurants, Stores (Retail)",5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,1963,2521017,185176,94 PENNSYLVANIA AVE
+0401 01690000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,6,Complete Rehab,2022,1900,,2521273,185424,105 CHATHAM ST
+0401 01700000,R-30,R - Multi Family/Dorms/Single,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2521253,185475,107 CHATHAM ST
+0401 01710000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,2009,1900,,2521226,185532,109 CHATHAM ST
+0401 01720000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2521204,185577,111 CHATHAM ST
+0401 01730000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,2018,,2521185,185615,113 CHATHAM ST
+0401 01740000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,1,Cosmetic Redecoration,2018,1850,,2521168,185652,121 CHATHAM ST
+0401 01750000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,5,Kitchen Remodeling,1989,1850,,2521149,185686,123 CHATHAM ST
+0401 01760000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,5,Kitchen Remodeling,1975,1850,,2521138,185722,125 CHATHAM ST
+0401 01770000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1850,,2521262,185726,218 E SECOND ST
+0401 01780000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1956,,2521319,185756,220 E SECOND ST
+0401 01790000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,5,Kitchen Remodeling,1994,1923,,2521381,185799,222 E SECOND ST
+0401 01800000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,2,Private,,Not Listed,,2017,,2521375,185635,3 HOOPES ALY
+0401 0181000E,E-71,E - Local Gov't Parks,6,Neighborhood or Spot,E,99046000,R1,1,Public,,Not Listed,,,,2521697,185982,THIRD ST
+0401 01810100,R-90,A - Apt Complex (20 or more units,5,Secondary Strip,A,99045000,C1,1,Public,,Not Listed,,,1973,2521239,185205,202 FIRST ST
+0401 01820000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1940,1900,,2521392,185924,203 NEW ST
+0401 01830000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,1994,1900,,2521373,185955,205 NEW ST
+0401 01840000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1940,1900,,2521364,185994,207 NEW ST
+0401 01850000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,3,Living room/Family room/Bedroom  Remodel/Addition,2021,1900,,2521341,186029,215 NEW ST
+0401 01850100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2521329,186063,217 NEW ST
+0401 01860000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1960,1864,,2521310,186109,221 NEW ST
+0401 01870000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1960,1870,,2521287,186162,225 NEW ST
+0401 01880000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1940,1880,,2521397,186172,302 E THIRD ST
+0401 01890000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,4,Bathroom Remodeling,1930,1860,,2521455,186213,304 E THIRD ST
+0401 01900000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1940,1900,,2521552,186287,306 E THIRD ST
+0401 01910000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2521877,186512,314 E THIRD ST
+0401 01920000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1984,,2521865,186479,312 E THIRD ST
+0401 0192010E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,04001000,R1,1,Public,,Not Listed,,,,2521798,186495,316 E THIRD ST
+0401 01930000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1940,1910,,2522037,186496,318 E THIRD ST
+0401 01940000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1950,1896,,2522132,186501,248 CHURCH ST
+0401 01950000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1886,,2521979,186416,246 CHURCH ST
+0401 01950000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1981,,2521979,186416,246 CHURCH ST
+0401 01960000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2521855,186349,236 CHURCH ST
+0401 01970100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1992,,2522110,186378,242 CHURCH ST
+0401 01980000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,5,Kitchen Remodeling,1940,1920,,2522066,186333,240 CHURCH ST
+0401 01990000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1968,,2521947,186348,238 CHURCH ST
+0401 01990100,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2521986,186272,226 CHURCH ST
+0401 02000000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2521981,186234,222 CHURCH ST
+0401 02010000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2521989,186190,224 CHURCH ST
+0401 02020000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2521995,186143,220 CHURCH ST
+0401 02030000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522004,186104,218 CHURCH ST
+0401 02040000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522010,186067,216 CHURCH ST
+0401 02050000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1985,,2522020,185992,214 CHURCH ST
+0401 0206000E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,99046000,R1,1,Public,,Not Listed,,,,2522024,185909,CHURCH ST
+0401 0207000E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,99046000,R1,1,Public,,Not Listed,,,,2521996,185859,CHURCH ST
+0401 02080000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2521912,185753,208 CHURCH ST
+0401 02090000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522281,186488,239 CHURCH ST
+0401 02100000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,,1955,,2522419,186460,410 E THIRD ST
+0401 02110000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522277,186415,237 CHURCH ST
+0401 02120000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2522518,186273,235 CHURCH ST
+0401 02130000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1950,,2522207,186211,223 CHURCH ST
+0401 02140000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,2019,1900,,2522193,186142,221 CHURCH ST
+0401 02150000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522268,186018,215 CHURCH ST
+0401 02160000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522209,185451,61 BALTIMORE PK
+0402 00010000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522569,187307,424 THOMPSON ST
+0402 00020000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522538,187165,414 THOMPSON ST
+0402 00040000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,2013,,2522515,187013,405 MAPLE ST
+0402 00050000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522507,186966,521 HENSON ST
+0402 00060000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1940,,2522494,186894,519 HENSON ST
+0402 00070000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,2021,1957,,2522483,186810,515 HENSON ST
+0402 00080000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1957,,2522463,186732,511 HENSON ST
+0402 00090000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522453,186651,509 HENSON ST
+0402 00100000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1987,,2522436,186565,409 E THIRD ST
+0402 00120000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,6,Complete Rehab,2001,1979,,2522689,187203,413 THOMPSON ST
+0402 00120100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1962,,2522811,186747,605 POPLAR ST
+0402 00120200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1961,,2522622,186782,601 POPLAR ST
+0402 00120300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1964,,2522713,186767,603 POPLAR ST
+0402 00120400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1965,,2522711,186907,604 POPLAR ST
+0402 00120500,R-70,R - Mobile Home,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522676,187025,403 THOMPSON ST
+0402 001205A0,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1971,,2522784,186900,606 POPLAR ST
+0402 001205B0,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1965,,2522633,186920,602 POPLAR ST
+0402 001205C0,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2522778,187005,MAPLE ST
+0402 00120600,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522778,187216,502 MAPLE ST
+0402 0013000E,E-70,E - Local Gov't (Townships & Boroughs),2,Perm. Central Business District,E,04001000,R1,3,None,,Not Listed,,,,2522741,185596,47 BALTIMORE PK
+0402 00130100,V-10,R - Vacant Land Residential,2,Perm. Central Business District,R,04001000,R1,3,None,,Not Listed,,,,2522659,185981,55 BALTIMORE PK
+0402 00140000,C-80,C - Warehouse,5,Secondary Strip,C,99045000,I1,2,Private,,Not Listed,,,1920,2522764,184939,62 BALTIMORE PK
+0402 00140000,C-80,C - Warehouse,5,Secondary Strip,C,99045000,I1,2,Private,,Not Listed,,,1946,2522764,184939,62 BALTIMORE PK
+0402 00140000,C-80,C - Warehouse,5,Secondary Strip,C,99045000,I1,2,Private,,Not Listed,,,1930,2522764,184939,62 BALTIMORE PK
+0402 00150000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,I1,3,None,,Not Listed,,,,2522925,185192,297 OLD BALTIMORE PK
+0402 00160000,R-70,R - Mobile Home,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522707,186474,THOMPSON ST
+0402 0016000T,T-10,R - Trailers and Mobile Homes,,#NAME?,R,00009000,R1,1,Public,,Not Listed,,,,,,401 THOMPSON ST
+0402 00160100,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522707,186649,THOMPSON ST
+0403 00010000,R-80,"R - Barns,Stables,Pools,Misc Bldg",6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2519730,185493,231 W STATE ST
+0403 00010100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2519779,184250,231 W STATE ST
+0403 00020000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2519669,184215,235 W STATE ST
+0403 00030000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2519722,184237,233 W STATE ST
+0403 00040000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520180,184600,141 W STATE ST
+0403 00050000,R-80,"R - Barns,Stables,Pools,Misc Bldg",6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2520174,184722,W STATE ST
+0403 00050100,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2520040,184810,130 W STATE ST
+0403 00060000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1883,,2520306,184664,133 135 W STATE ST
+0403 00070000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2520282,184745,129 W STATE ST
+0403 00080000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2520314,184777,125 W STATE ST
+0403 00090000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,C1,1,Public,,Not Listed,,1900,,2520348,184813,123 W STATE ST
+0403 00100000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1954,,2519578,184035,2 CLAY CREEK RD
+0403 00110000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2519753,184000,316 CLAY CREEK RD
+0403 00110100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1967,,2520628,183399,20 INDIAN RUN RD
+0403 00110300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1979,,2520231,183676,11 N WILLIAMSON RD
+0403 00110400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1979,,2520276,183433,5 N WILLIAMSON RD
+0403 00110500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1979,,2520159,183598,9 N WILLIAMSON RD
+0403 00110600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1979,,2520187,183497,7 N WILLIAMSON RD
+0403 00110700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1979,,2520311,183357,3 N WILLIAMSON RD
+0403 00110800,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1979,,2520344,183275,1 N WILLIAMSON RD
+0403 00110900,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1984,,2520353,183650,10 N WILLIAMSON RD
+0403 00111000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1984,,2520429,183560,8 N WILLIAMSON RD
+0403 00111100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1985,,2520465,183478,6 N WILLIAMSON RD
+0403 00111200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1985,,2520493,183402,4 N WILLIAMSON RD
+0403 00111300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1985,,2520515,183326,2 N WILLIAMSON RD
+0403 00111400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1979,,2520387,183115,7 MILLER DR
+0403 00111500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1979,,2520543,183157,5 MILLER DR
+0403 00111600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1986,,2520628,183174,3 MILLER DR
+0403 00111700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1985,,2520712,183194,1 MILLER DR
+0403 00111800,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520283,183101,9 MILLER DR
+0403 00111900,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520164,183103,11 MILLER DR
+0403 00112000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520089,183161,13 MILLER DR
+0403 00112100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520049,183251,15 MILLER DR
+0403 00112200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2519955,183324,17 MILLER DR
+0403 00112300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2519847,183490,18 MILLER DR
+0403 00112400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2519849,183575,3 COOK CRT
+0403 00112500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2519804,183651,5 COOK CRT
+0403 00112600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2519738,183710,7 COOK CRT
+0403 00112700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2519746,183820,9 COOK CRT
+0403 00112800,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2519845,183888,14 COOK CRT
+0403 00112900,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2519941,183862,12 COOK CRT
+0403 00113000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2519963,183775,10 COOK CRT
+0403 00113100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520046,183703,8 COOK CRT
+0403 00113200,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520051,183623,6 COOK CRT
+0403 00113300,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520052,183523,4 COOK CRT
+0403 00113400,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520047,183441,16 MILLER DR
+0403 00113500,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520113,183395,14 MILLER DR
+0403 00113600,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520184,183354,12 MILLER DR
+0403 00113700,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04002000,R1,1,Public,,Not Listed,,1987,,2520245,183298,10 MILLER DR
+0403 00130000,R-70,R - Mobile Home,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2520087,184234,200 W STATE ST
+0403 0013010E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,99046000,R1,1,Public,,Not Listed,,,,2520186,184021,INDIAN RUN RD
+0403 00140000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,2022,,2520355,183813,12 INDIAN RUN RD
+0403 00140100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2520465,183714,14 INDIAN RUN RD
+0403 00150000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1958,,2520538,183613,16 INDIAN RUN RD
+0403 00160000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1958,,2520594,183523,18 INDIAN RUN RD
+0403 00170000,V-10,R - Vacant Land Residential,6,Neighborhood or Spot,R,04001000,R1,3,None,,Not Listed,,,,2520990,183978,INDIAN RUN RD
+0403 00170100,V-10,R - Vacant Land Residential,2,Perm. Central Business District,R,04001000,I1,3,None,,Not Listed,,,,2521348,184197,INDIAN RUN RD
+0403 0018000E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,99046000,R1,1,Public,,Not Listed,,,1970,2520313,184368,126 W STATE ST
+0403 0018010E,E-70,E - Local Gov't (Townships & Boroughs),6,Neighborhood or Spot,E,99046000,R1,1,Public,,Not Listed,,,,2520504,184164,W STATE ST
+0403 00190000,F-40,"C - Mushroom, Horticultural, etc",6,Neighborhood or Spot,C,99046000,I1,1,Public,,Not Listed,,,1926,2520579,184535,120 W STATE ST
+0403 00200000,R-30,R - Multi Family/Dorms/Single,6,Neighborhood or Spot,R,04001000,I1,1,Public,,Not Listed,,1900,,2520581,184705,116 W STATE ST
+0403 00210000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,I1,1,Public,,Not Listed,,1952,,2520728,184666,110 W STATE ST
+0403 00210100,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,I1,1,Public,5,Kitchen Remodeling,2023,1930,,2520635,184783,108 W STATE ST
+0403 00220000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,I1,1,Public,,Not Listed,,1900,,2520719,184806,100 W STATE ST
+0403 0023000E,E-40,E - Railroads,5,Secondary Strip,E,99045000,I1,1,Public,,Not Listed,,,,2520921,184707,PENNSYLVANIA AVE
+0403 00240000,C-20,C - Gas Station,5,Secondary Strip,C,99045000,I1,1,Public,,Not Listed,,,1972,2521189,184657,84 PENNSYLVANIA AVE
+0403 00240100,C-80,C - Warehouse,5,Secondary Strip,C,99045000,I1,1,Public,,Not Listed,,,1930,2521014,184807,88 PENNSYLVANIA AVE
+0403 00250000,C-60,C - Office Bldgs/Laboratory/Library,5,Secondary Strip,C,99045000,I1,1,Public,,Not Listed,,,2001,2521414,184527,82 PENNSYLVANIA AVE
+0403 0026000U,U-03,U - Public Utilities,5,Secondary Strip,U,99045000,I1,1,Public,,Not Listed,,,,2521441,184298,82 PENNSYLVANIA AVE
+0403 00270000,M-20,I - Light Industrial,5,Secondary Strip,I,99045000,I1,1,Public,,Not Listed,,,1936,2521699,184117,42 GAP NEWPORT PK
+0403 00280100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,I1,1,Public,,Not Listed,,1960,,2521562,183819,20 ELLICOT AVE
+0403 00290000,C-70,C - Commercial Garage/Shop/Car Dealers,5,Secondary Strip,C,99045000,C1,2,Private,,Not Listed,,,1985,2521814,184783,65 BALTIMORE PK
+0403 00290000,C-70,C - Commercial Garage/Shop/Car Dealers,5,Secondary Strip,C,99045000,C1,2,Private,,Not Listed,,,1982,2521814,184783,65 BALTIMORE PK
+0403 00290100,C-50,C - Shopping Centers,5,Secondary Strip,C,99045000,C1,1,Public,,Not Listed,,,1989,2521470,184673,81 BALTIMORE PK
+0403 00300000,C-30,"C - Restaurants, Stores (Retail)",5,Secondary Strip,C,99045000,I1,1,Public,,Not Listed,,,1976,2521843,184483,72 BALTIMORE PK
+0403 0031000E,E-40,E - Railroads,5,Secondary Strip,E,99045000,I1,3,None,,Not Listed,,,,2522193,184545,OLD BALTIMORE PK
+0403 0032000E,E-40,E - Railroads,5,Secondary Strip,E,99045000,I1,3,None,,Not Listed,,,,2521900,184310,41 GAP NEWPORT PK
+0403 0033000E,E-40,E - Railroads,5,Secondary Strip,E,99045000,I1,1,Public,,Not Listed,,,,2522205,184282,39 GAP NEWPORT PK
+0403 00340000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1926,,2522367,184128,37 GAP NEWPORT PK
+0403 00350000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1917,,2522164,183944,38 GAP NEWPORT PK
+0403 00360000,R-80,"R - Barns,Stables,Pools,Misc Bldg",6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,,,2522314,183872,36 GAP NEWPORT PK
+0403 00370000,R-80,"R - Barns,Stables,Pools,Misc Bldg",6,Neighborhood or Spot,R,04001000,R1,2,Private,,Not Listed,,,,2521964,183670,ELLICOT AVE
+0403 00370100,R-60,R - Dwelling W/Comm Use Primary R,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,1966,1730,,2521682,183356,23 ELLICOT AVE
+0404 0001000E,E-40,E - Railroads,5,Secondary Strip,E,99045000,I1,1,Public,,Not Listed,,,,2522660,184641,OLD BALTIMORE PK
+0404 00020000,C-30,"C - Restaurants, Stores (Retail)",5,Secondary Strip,C,99045000,R1,1,Public,,Not Listed,,,1977,2522825,183791,37 PENNSYLVANIA AVE
+0404 00020100,V-10,R - Vacant Land Residential,2,Perm. Central Business District,R,04001000,R1,3,None,,Not Listed,,,,2522783,184191,PENNSYLVANIA AVE
+0404 000201AE,E-90,E - Fire Companies,5,Secondary Strip,E,99045000,R1,2,Private,,Not Listed,,,2007,2523280,183864,25 GAP NEWPORT PK
+0404 00030000,R-20,R - Two Family,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522585,183926,33 GAP NEWPORT PK
+0404 00040000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1930,,2522393,183789,26 PENNSYLVANIA AVE
+0404 00050000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522466,183748,34 GAP NEWPORT PK
+0404 00060000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522535,183703,32 GAP NEWPORT PK
+0404 00070000,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1900,,2522615,183654,30 GAP NEWPORT PK
+0404 00080000,R-40,A - Aparments (4-19 Units),4,Major Strip,A,04001000,R1,1,Public,,Not Listed,,1930,,2522864,183481,26 GAP NEWPORT PK
+0404 00080100,R-10,R - Single Family/Cabin,6,Neighborhood or Spot,R,04001000,R1,1,Public,,Not Listed,,1978,,2522666,183526,28 GAP NEWPORT PK

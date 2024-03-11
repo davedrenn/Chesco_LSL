@@ -24,15 +24,38 @@ options(scipen = 999)
 ```{r avondaledata, include=FALSE}
 name <- "Avondale"
 
-codes <- c("R-10", "R-20", "R-30", "R-40", "R-50", "R-55", "R-60", "R-61", "R-90")
+codes <- c("R-10", # R - Single Family/Cabin
+           "R-20", # R - Two Family
+           "R-30", # R - Multi Family/Dorms/Single
+           "R-40", # A - Apartments (4-19 Units)
+           "R-50", # R - Condominium
+           "R-55", # R - Town House (Common Law Condo)
+           "R-60", # R - Dwelling W/Comm Use Primary R
+           "R-61", # C - Dwelling W/Comm Use Primary C
+           "R-90") # A - Apt Complex (20 or more units
+
+
+mobile <- c("R-70", # R - Mobile Home
+            "T-10", # R - Trailers and Mobile Homes
+            "C-92") # C - Mobile Home Parks (4+)
+
 
 dat <- read_csv("data/chesco_characteristics_avondale_10.2023.csv") %>%
   dplyr::filter(LUC %in% codes) %>%
   dplyr::filter(WATER == 1) %>%
   select(PARID, LUC_desc, YRBLT, COMM_YRBLT, X_CO, Y_CO, situs, SUBDNUM, SUBDIV)
 
+dat2 <- read_csv("data/chesco_characteristics_avondale_10.2023.csv") %>%
+  dplyr::filter(LUC %in% mobile) %>%
+  dplyr::filter(WATER == 1) %>%
+  select(PARID, LUC_desc, X_CO, Y_CO, situs) %>%
+  na.omit()
+
 points <- st_as_sf(dat, coords = c("X_CO", "Y_CO"), crs = "EPSG:2272") %>%
   st_transform(crs="EPSG:4326") 
+
+points2 <- st_as_sf(dat2, coords = c("X_CO", "Y_CO"), crs = "EPSG:2272") %>%
+  st_transform(crs="EPSG:4326")
 
 points <- points %>% 
   mutate(year = dplyr::coalesce(YRBLT, COMM_YRBLT)) %>%
@@ -104,7 +127,7 @@ leaflet(width = "100%") %>%
               opacity = .5,
               color = "black",
               fillOpacity = .01) %>%
-  addLayersControl(baseGroups = c("Pre- or Post-1991", "Year Category", "Subdivision"),
+  addLayersControl(baseGroups = c("Pre- or Post-1991", "Year Category", "Subdivision", "Mobile or Trailer Homes"),
                    options = layersControlOptions(collapsed = FALSE,),
                    position = "topright"
                    ) %>%
@@ -170,7 +193,17 @@ leaflet(width = "100%") %>%
             position = "topright",
             title = "Subdivision",
             layerId = "Subdivision"
-            ) %>%  
+            ) %>% 
+  addCircleMarkers(data = points2,
+                   radius = 4,
+                   weight = 2,
+                   opacity = .8,
+                   stroke = TRUE,
+                   popup = ~paste("Address:", situs,
+                                  "<br>Zoning:", LUC_desc
+                                  ),
+                   group = "Mobile or Trailer Homes"
+                   ) %>%
   leaflet.extras::addResetMapButton() %>%
   htmlwidgets::onRender("
     function(el, x) {
