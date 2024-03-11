@@ -1,8 +1,8 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Chester County, PA Housing Stock Age"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Avondale"
+      href: Avondale.html
+    - text: "Oxford"
+      href: Oxford.html
