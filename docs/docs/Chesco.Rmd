@@ -1,5 +1,5 @@
 ---
-title: "Oxford Housing"
+title: "Chester County Housing"
 output: html_document
 ---
 
@@ -22,7 +22,7 @@ options(scipen = 999)
 ```
 
 ```{r oxforddata, include=FALSE}
-name <- "Oxford"
+name <- "West Chester"
 
 codes <- c("R-10", # R - Single Family/Cabin
            "R-20", # R - Two Family
@@ -38,22 +38,17 @@ mobile <- c("R-70", # R - Mobile Home
             "T-10", # R - Trailers and Mobile Homes
             "C-92") # C - Mobile Home Parks (4+)
 
-dat <- read_csv("data/chesco_characteristics_4.2024.csv") %>%
+dat_raw <- read_csv("data/chesco_characteristics_4.2024.csv") 
+
+dat <- dat_raw %>%
   dplyr::filter(LUC %in% codes) %>%
   dplyr::filter(WATER == 1) %>%
   select(PARID, LUC_desc, YRBLT, COMM_YRBLT, X_CO, Y_CO, situs)
 
-dat2 <- read_csv("data/chesco_characteristics_4.2024.csv") %>%
-  dplyr::filter(LUC %in% mobile) %>%
-  dplyr::filter(WATER == 1) %>%
-  select(PARID, LUC_desc, X_CO, Y_CO, situs) %>%
-  na.omit()
+dat <- dat[!is.na(dat$X_CO),]
 
 points <- st_as_sf(dat, coords = c("X_CO", "Y_CO"), crs = "EPSG:2272") %>%
   st_transform(crs="EPSG:4326") 
-
-points2 <- st_as_sf(dat2, coords = c("X_CO", "Y_CO"), crs = "EPSG:2272") %>%
-  st_transform(crs="EPSG:4326")
 
 points <- points %>% 
   mutate(year = dplyr::coalesce(YRBLT, COMM_YRBLT)) %>%
@@ -73,6 +68,16 @@ points <- points %>%
                      )
          ) %>%
   select(-YRBLT, -COMM_YRBLT)
+
+points2 <- dat_raw %>% 
+  dplyr::filter(LUC %in% mobile) %>%
+  dplyr::filter(WATER == 1) %>%
+  select(PARID, LUC_desc, X_CO, Y_CO, situs) %>%
+  na.omit()
+
+points2 <- points2 %>%
+  st_as_sf(., coords = c("X_CO", "Y_CO"), crs = "EPSG:2272") %>%
+  st_transform(crs="EPSG:4326")
 
 chester <- counties(state = 42) %>%
   dplyr::filter(NAME == "Chester")%>%
@@ -119,13 +124,13 @@ leaflet(width = "100%") %>%
   addProviderTiles(providers$CartoDB.Positron) %>%
   setView(lng = town$INTPTLON, 
           lat = town$INTPTLAT,
-          zoom = 14) %>%
-  addPolygons(data = town,
+          zoom = 8) %>%
+  addPolygons(data = chester,
               weight = 2,
               opacity = .5,
               color = "black",
               fillOpacity = .01) %>%
-  addLayersControl(baseGroups = c("Pre- or Post-1991", "Year Category", "Subdivision", "Mobile or Trailer Homes"),
+  addLayersControl(baseGroups = c("Pre- or Post-1991", "Year Category", "Mobile or Trailer Homes"),
                    options = layersControlOptions(collapsed = FALSE,),
                    position = "topright"
                    ) %>%
@@ -137,8 +142,7 @@ leaflet(width = "100%") %>%
                    color = ~pal1(if1991),
                    popup = ~paste("Address:", situs,
                                   "<br>Year Built:", year,
-                                  "<br>Zoning:", LUC_desc,
-                                  "<br>Subdivision:", SUBDIV
+                                  "<br>Zoning:", LUC_desc
                                   ),
                    group = "Pre- or Post-1991"
                    ) %>%
@@ -158,8 +162,7 @@ leaflet(width = "100%") %>%
                    color = ~pal2(yearGroup),
                    popup = ~paste("Address:", situs,
                                   "<br>Year Built:", year,
-                                  "<br>Zoning:", LUC_desc,
-                                  "<br>Subdivision:", SUBDIV
+                                  "<br>Zoning:", LUC_desc
                                   ),
                    group = "Year Category"
                    ) %>%
@@ -171,27 +174,6 @@ leaflet(width = "100%") %>%
             title = "Year Built",
             layerId = "Year Category"
             ) %>%
-  addCircleMarkers(data = points,
-                   radius = 4,
-                   weight = 2,
-                   opacity = .8,
-                   stroke = TRUE,
-                   color = ~pal3(SUBDIV),
-                   popup = ~paste("Address:", situs,
-                                  "<br>Year Built:", year,
-                                  "<br>Zoning:", LUC_desc,
-                                  "<br>Subdivision:", SUBDIV
-                                  ),
-                   group = "Subdivision"
-                   ) %>%
-  addLegend(pal = pal3, 
-            data = points, 
-            values = ~SUBDIV, 
-            group = "Subdivision", 
-            position = "topright",
-            title = "Subdivision",
-            layerId = "Subdivision"
-            ) %>%  
   addCircleMarkers(data = points2,
                    radius = 4,
                    weight = 2,
