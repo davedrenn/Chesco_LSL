@@ -1,4 +1,0 @@
----
-title: "Chester County, PA Housing Stock Age"
-output: html_document
----
